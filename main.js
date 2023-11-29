@@ -1,5 +1,5 @@
-const olJoao = document.querySelector("ol#joao");
-const olMaria = document.querySelector("ol#maria");
+const olJoao = document.querySelector("#joao");
+const olMaria = document.querySelector("#maria");
 
 document.entrada.addEventListener('submit', leFormulario);
 
